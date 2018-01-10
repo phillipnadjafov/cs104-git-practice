@@ -2,6 +2,6 @@
 
 int main(){
 
-	std:cout << "HellowWorld!" << std:endl;
+	std:cout << "FightOn!" << std:endl;
 
 }
